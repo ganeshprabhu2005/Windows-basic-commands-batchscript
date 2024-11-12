@@ -109,11 +109,6 @@ return 0;
 ```
 
 
-
-
-
-
-
 ## OUTPUT
 
 ![WhatsApp Image 2024-11-12 at 08 59 06_328f9444](https://github.com/user-attachments/assets/ab6ec09f-e86c-4432-8c1e-d234c68e7893)
